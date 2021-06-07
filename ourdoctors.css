@@ -136,7 +136,7 @@ body {
 }
 
 .doctor1 div{
-    background-image: url(media/ahmet-oktay.jpg);
+    background-image: url(ahmet-oktay.jpg);
     background-position: 230px 678px;
     background-size: cover;
     height: 190px;
@@ -162,7 +162,7 @@ font-size: 32px;
 
 
 .doctor2 div{
-    background-image: url(media/ashraf-abou-hlela.jpg);
+    background-image: url(ashraf-abou-hlela.jpg);
     background-position: 228px 689px;
     background-size: cover;
     height: 188px;
@@ -175,7 +175,7 @@ font-size: 32px;
 
 
 .doctor3 div{
-    background-image: url(media/ramy-amin.jpg);
+    background-image: url(ramy-amin.jpg);
     background-position: 246px 691px;
     background-size: cover;
     height: 189px;
@@ -187,7 +187,7 @@ font-size: 32px;
   
 
 .doctor4 div{
-    background-image: url(media/amit-goel.jpg);
+    background-image: url(amit-goel.jpg);
     background-position: 242px 676px;
     background-size: cover;
     height: 185px;
@@ -198,7 +198,7 @@ font-size: 32px;
 
 
 .doctor5 div{
-    background-image: url(media/ahmed-hanafy.jpg);
+    background-image: url(ahmed-hanafy.jpg);
     background-position: 231px 590px;
     background-size: cover;
     height: 186px;
@@ -210,7 +210,7 @@ font-size: 32px;
   
 
 .doctor6 div{
-    background-image: url(./media/eman-nabil.jpg);
+    background-image: url(./eman-nabil.jpg);
     background-position: 227px 453px;
     background-size: cover;
     height: 188px;
@@ -221,7 +221,7 @@ font-size: 32px;
 
 
 .doctor7 div{
-    background-image: url(media/ahmed-saqr.jpg);
+    background-image: url(ahmed-saqr.jpg);
     background-position: 233px 291px;
     background-size: cover;
     height: 191px;
@@ -231,7 +231,7 @@ font-size: 32px;
 }
 
 .doctor8 div{
-    background-image: url(media/deeak-pillai.jpg);
+    background-image: url(deeak-pillai.jpg);
     background-position: 225px 307px;
     background-size: cover;
     height: 193px;
@@ -241,7 +241,7 @@ font-size: 32px;
 }
 
 .doctor9 div{
-    background-image: url(media/Dr-Shreen.jpg);
+    background-image: url(Dr-Shreen.jpg);
     background-position: 226px 227px;
     background-size: cover;
     height: 185px;
@@ -251,7 +251,7 @@ font-size: 32px;
 }
 
 .doctor10 div{
-    background-image: url(media/iman.jpg);
+    background-image: url(iman.jpg);
     background-position: 235px 226px;
     background-size: cover;
     height: 192px;
